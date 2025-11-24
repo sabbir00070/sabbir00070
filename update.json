@@ -1,9 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 11,
-  "messageText": “A new update is available 🔔
-This release improves stability, boosts performance, and refines several core functions to make the app run more smoothly. We’ve addressed minor issues, enhanced compatibility, and prepared the system for upcoming features.
-Updating now ensures you get the most reliable and optimized experience ⚙️✨",
+  "messageText": "A new update is available 🔔\nThis release improves stability, boosts performance, and refines several core functions to make the app run more smoothly. We’ve addressed minor issues, enhanced compatibility, and prepared the system for upcoming features.\nUpdating now ensures you get the most reliable and optimized experience ⚙️✨",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
