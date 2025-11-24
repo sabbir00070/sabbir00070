@@ -1,16 +1,16 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "A new update is available 🔔 This release improves stability, boosts performance, and refines several core functions to make the app run more smoothly. We’ve addressed minor issues, enhanced compatibility, and prepared the system for upcoming features.\nUpdating now ensures you get the most reliable and optimized experience ⚙️✨",
+  "messageText": "A new update is available 🔔\nThis release improves stability, boosts performance, and refines several core functions to make the app run more smoothly. We’ve addressed minor issues, enhanced compatibility, and prepared the system for upcoming features.\nUpdating now ensures you get the most reliable and optimized experience ⚙️✨",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#0D47A1",
-  "updateButtonGradientEndColor": "#1976D2",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
   "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#455A64",
-  "cancelButtonGradientEndColor": "#90A4AE",
-  "textGradientStartColor": "#0D47A1",
-  "textGradientEndColor": "#42A5F5",
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
   "dialogBackgroundColor": "#FFFFFF"
 }
