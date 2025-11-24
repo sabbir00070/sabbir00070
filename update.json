@@ -1,7 +1,7 @@
 {
   "showDialog": true,
-  "appVersionCode": 1,
-  "messageText": "A new update is available 🔔\nThis release improves stability, boosts performance, and refines several core functions to make the app run more smoothly. We’ve addressed minor issues, enhanced compatibility, and prepared the system for upcoming features.\nUpdating now ensures you get the most reliable and optimized experience ⚙️✨",
+  "appVersionCode": 11,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
